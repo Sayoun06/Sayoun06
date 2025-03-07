@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Frontend Website Design.
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about Webdev.
-- 📫 How to reach me: pheonixgamer12345@gmail.com
+- 📫 How to reach me: shktwo@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Ye repo test karne ke liye bana ra hu ....
 
